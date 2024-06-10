@@ -1,6 +1,6 @@
 {
   "name": "gulp-azure-storage",
-  "version": "0.12.1",
+  "version": "0.12.2",
   "description": "Gulp plugin to download and upload files to/from the Azure blob storage",
   "main": "index.js",
   "author": "João Moreno",
@@ -27,7 +27,7 @@
     "queue": "^3.0.10",
     "streamifier": "^0.1.1",
     "vinyl": "^2.2.0",
-    "vinyl-fs": "^3.0.3",
+    "vinyl-fs": "^4.0.0",
     "yargs": "^15.3.0"
   }
 }
